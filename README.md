@@ -21,7 +21,7 @@ Discussion paper titled "Fully Modified Estimation in Cointegrating Polynomial R
 - "AndHAC.m": Andrew's HAC estimator of long-run covariance matrices;
 - "fm_inference_cubic.m": Fully modified estimation and inference, including the GLS estimator proposed in this project, along with the system OLS (SOLS) and seemingly unrelated regression (SUR) methods proposed by Wagner et. al. (2020, https://www.sciencedirect.com/science/article/abs/pii/S0304407619301150);  
 - "LRbiam.m": BIAM estimator of long-run covariance matrices proposed in this project;
-- "multikpss_bonferroni.m": Multivariate KPSS test proposed in this project;
+- "multikpss_bonferroni.m": Multivariate KPSS test proposed in this project.
 
 
 
